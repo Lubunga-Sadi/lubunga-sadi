@@ -16,7 +16,7 @@ In essence, I am a student with a passion for software development, a thirst for
 
 ## :chart_with_upwards_trend: My contribution graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?Lubunga-Sadi=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lubunga-Sadi&bg_color=dedede&color=4c8e9e&line=4c999e&point=494e50&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
