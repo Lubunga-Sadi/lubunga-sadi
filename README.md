@@ -1,6 +1,6 @@
 ## Hey, My  name is Sadi
 
-![Header](./github-header-image.png)
+![Header](./assets/images/github-header-image%20(2).png)
 
 ### I am a student at MITT
 ### I am studying 
